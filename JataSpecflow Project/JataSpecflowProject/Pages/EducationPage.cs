@@ -14,7 +14,8 @@ namespace JataSpecflow_Project.Pages
 
         public void ClickBanner()
         {
-            Educationbanner.Click();
+            // Educationbanner.Click();
+            Console.WriteLine("In EducationPage Class");
         }
     }
 }

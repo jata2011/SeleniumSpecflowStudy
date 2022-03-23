@@ -16,7 +16,7 @@ namespace JataSpecflowProject
         [Given(@"the user navigate Education Url")]
         public void GivenTheUserNavigateEducationUrl()
         {
-            driver = new ChromeDriver(@"C:\\Users\\jshankar\\source\\repos\\JataSpecflow Project\\JataSpecflowProject\\driver");
+            driver = new ChromeDriver(@"C:\\Users\\jata2\\source\\repos\\JataSpecflow Project\\JataSpecflowProject\\driver");
 
            // driver = new ChromeDriver();
 
@@ -29,10 +29,10 @@ namespace JataSpecflowProject
             driver.Navigate().Back();
 
 
-            driver.FindElement(By.Id("ContentPlaceholder1_Meal")).SendKeys("Tomato");
+           // driver.FindElement(By.Id("ContentPlaceholder1_Meal")).SendKeys("Tomato");
 
-            driver.FindElement(By.Id("ContentPlaceholder1_Meal")).SendKeys(Keys.Down);
-            driver.FindElement(By.Id("ContentPlaceholder1_Meal")).SendKeys(Keys.Return);
+            //driver.FindElement(By.Id("ContentPlaceholder1_Meal")).SendKeys(Keys.Down);
+            //driver.FindElement(By.Id("ContentPlaceholder1_Meal")).SendKeys(Keys.Return);
 
 
             // Storing Title name in String variable
