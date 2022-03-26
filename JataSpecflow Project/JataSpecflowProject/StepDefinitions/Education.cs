@@ -32,7 +32,7 @@ namespace JataSpecflowProject
            // driver.FindElement(By.Id("ContentPlaceholder1_Meal")).SendKeys("Tomato");
 
             //driver.FindElement(By.Id("ContentPlaceholder1_Meal")).SendKeys(Keys.Down);
-            //driver.FindElement(By.Id("ContentPlaceholder1_Meal")).SendKeys(Keys.Return);
+            // driver.FindElement(By.Id("ContentPlaceholder1_Meal")).SendKeys(Keys.Return);
 
 
             // Storing Title name in String variable

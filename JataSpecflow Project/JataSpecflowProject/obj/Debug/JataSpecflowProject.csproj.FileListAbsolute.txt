@@ -351,6 +351,8 @@ C:\Users\jshankar\source\repos\JataSpecflow Project\JataSpecflowProject\obj\Debu
 C:\Users\jshankar\source\repos\JataSpecflow Project\JataSpecflowProject\obj\Debug\JataSpecflow Project.exe
 C:\Users\jshankar\source\repos\JataSpecflow Project\JataSpecflowProject\obj\Debug\JataSpecflow Project.pdb
 C:\Users\jshankar\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\Report\MyReportTemplate.cshtml
+C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\BoDi.dll
+C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\SpecFlowPlusRunner\net461\BoDi.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\SpecFlowPlusRunner\net461\CommandLine.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\SpecFlowPlusRunner\net461\FSharp.Core.dll
@@ -495,14 +497,12 @@ C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\S
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\TechTalk.SpecRun.Framework.dll
-C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\BoDi.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\SpecFlow.Plus.Shared.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\TechTalk.SpecFlow.Plus.RPC.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\StreamJsonRpc.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\FSharp.Core.dll
-C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\NUnit3.TestAdapter.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\NUnit3.TestAdapter.pdb
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\nunit.engine.dll
@@ -510,7 +510,7 @@ C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\n
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\nunit.engine.core.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\testcentric.engine.metadata.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\Report\MyReportTemplate.cshtml
-C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\JataSpecflow Project.exe
+C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\JataSpecflow Project.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\JataSpecflow Project.pdb
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\Gherkin.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\nunit.framework.dll
@@ -524,8 +524,7 @@ C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\S
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\TechTalk.SpecFlow.pdb
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\TechTalk.SpecFlow.xml
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.pdb
-C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\obj\Debug\JataSpecflowProject.csproj.AssemblyReference.cache
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\obj\Debug\JataSpecflowProject.csproj.CoreCompileInputs.cache
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\obj\Debug\JataSpecflowProject.csproj.CopyComplete
-C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\obj\Debug\JataSpecflow Project.exe
+C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\obj\Debug\JataSpecflow Project.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\obj\Debug\JataSpecflow Project.pdb
