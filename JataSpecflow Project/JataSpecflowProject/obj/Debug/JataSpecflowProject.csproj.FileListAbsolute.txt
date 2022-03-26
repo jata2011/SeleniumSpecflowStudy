@@ -528,3 +528,4 @@ C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\obj\Debug\J
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\obj\Debug\JataSpecflowProject.csproj.CopyComplete
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\obj\Debug\JataSpecflow Project.dll
 C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\obj\Debug\JataSpecflow Project.pdb
+C:\Users\jata2\source\repos\JataSpecflow Project\JataSpecflowProject\obj\Debug\JataSpecflowProject.csproj.AssemblyReference.cache
