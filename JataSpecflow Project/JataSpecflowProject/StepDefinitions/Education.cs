@@ -26,7 +26,8 @@ namespace JataSpecflowProject
             driver.Navigate().GoToUrl("https://google.com");
 
             Screenshot ss = ((ITakesScreenshot)driver).GetScreenshot();
-            ss.SaveAsFile(@"C:\Temp\Download\Image.png",ScreenshotImageFormat.Png);
+            ss.SaveAsFile(@"C:\softwares\Test result Screenshots\Image.png",
+            ScreenshotImageFormat.Png);
 
 
             //Navigate back to education url
